@@ -1,5 +1,7 @@
 # module_elb_aws
-Terraform module to create Elastic Load Balance on AWS
+
+- Terraform module to create Elastic Load Balance on AWS
+- Example of use see this repository: [atlantis_terraform](https://github.com/pdaambrosio/atlantis_terraform)
 
 <!-- BEGIN_AUTOMATED_TF_DOCS_BLOCK -->
 ## Requirements
